@@ -6,9 +6,9 @@ color:
   saturation: 0.9602379209827632
   rhythmicContrast: 0.1952845009509474
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: the-politics-as-usual-podcast
